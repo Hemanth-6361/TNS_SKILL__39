@@ -24,4 +24,5 @@ Project Objective
 The objective of this project is to simplify the management of shop owner and shop-related information within a shopping mall. It demonstrates the implementation of CRUD (Create, Read, Update, Delete) operations using Java and database technologies, ensuring efficient data management and easy access to shop records.
 
 Author
+
 Hemanth S
